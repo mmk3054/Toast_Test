@@ -1,16 +1,45 @@
 
-.greeting{
-    font-family: Poppins;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 23px;
-    color: #000000;
-}
-.background{
+body{
     max-width: 100%;
     max-height: 100%;
-}
-.map_img{
-    object-fit: contain;
+    background-color: blue;
+    justify-content: center;
 }
 
+.main{
+    background-color: pink;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+.greeting{
+    width: fit-content;
+    max-height: 100%;
+    background-color: crimson;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+}
+
+.cities{
+    padding-top: 30px;
+    max-height: 100%;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.animation{
+    background-color: royalblue;
+    padding-top: 30px;
+    max-height: 100%;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
