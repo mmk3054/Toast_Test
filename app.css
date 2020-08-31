@@ -44,6 +44,7 @@ p{
     grid-row: 1/2;
     text-align: center;
     padding-top: 5px;
+
 }
 
 .date{
@@ -67,6 +68,7 @@ p{
         grid-column: 2/3;
         grid-row: 3/3;
         text-align: center;
+        word-spacing: 20px;
 }
 
 .search-bar{
@@ -97,12 +99,7 @@ p{
     font-weight: 300;
     font-size: 64px;
     color: #000000;
-
-}
-
-.current-description-word{
-    font-weight: bold;
-    font-size: 14px;
+    font-weight: light;
 }
 
 .current-description{
